@@ -9,6 +9,7 @@ header{
   border-bottom-right-radius: 2.5vw;
   border-bottom-left-radius: 2.5vw;
   box-shadow: -0.139vw 0.764vw 2.2vw rgba(0, 255, 33, 0.92);
+  z-index: 6;
 }
 h1{
   color: white;
