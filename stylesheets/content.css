@@ -26,6 +26,10 @@ h1{
   line-height: 117.88%;
   letter-spacing: 0.03em;
 }
+::selection {
+    background: #16E52B;
+    color: #5300FF;
+   }
 .logo{
   position: absolute;
   width: 12.292vw;
