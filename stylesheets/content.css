@@ -34,16 +34,23 @@ button{
   line-height: 2.014vw;
   text-decoration: none;
 }
+a{
+  text-decoration: none;
+  color: white;
+}
 input{
   background-color: black;
   border: 0.069vw solid #20EB1B;
   border-radius: 13.889vw;
   outline:none;
+  padding: 0 1.389vw;
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 300;
   font-size: 1.667vw;
   line-height: 2.014vw;
+  color: white;
+
 }
 h1{
   color: white;
@@ -216,7 +223,7 @@ text-fill-color: transparent;
   top: 158.333vw;
 }
 .flex3{
-  position: absolute;
+  display: flex;
   width: 70.139vw;
   height: 48.611vw;
   left: 4.722vw;
