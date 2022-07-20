@@ -108,7 +108,18 @@ p{
   top: 1.042vw;
   background-color: black;
   border: 0.069vw solid #20EB1B;
-  filter: drop-shadow(0px 0.139vw 0.486vw #20EB1B);
+  border-radius: 13.889vw;
+}
+.aboutus{
+  box-sizing: border-box;
+  color: white;
+  position: absolute;
+  width: 12.986vw;
+  height: 4.097vw;
+  left: 66.875vw;
+  top: 1.042vw;
+  background-color: black;
+  border: 0.069vw solid #20EB1B;
   border-radius: 13.889vw;
 }
 .p1{
@@ -171,6 +182,27 @@ text-fill-color: transparent;
   text-fill-color: transparent;
 
 }
+.h23{
+  position: absolute;
+  width: 1334px;
+  height: 153px;
+  left: 451px;
+  top: 3088px;
+
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 117.88%;
+
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(90.94deg, #00FF19 11.27%, rgba(180, 235, 255, 0.979006) 18.63%, #FF70DD 36.51%, rgba(5, 0, 255, 0.94) 85.65%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
 .email{
   box-sizing: border-box;
 
@@ -180,6 +212,29 @@ text-fill-color: transparent;
   left: 4.514vw;
   top: 33.097vw;
 
+  border: 0.069vw solid #20EB1B;
+  border-radius: 13.889vw;
+}
+.email2{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 28.264vw;
+  height: 4.653vw;
+  left: 24.931vw;
+  top: 265.833vw;
+
+  border: 0.069vw solid #20EB1B;
+  border-radius: 13.889vw;
+}
+.start2{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 18.542vw;
+  height: 4.653vw;
+  left: 53.889vw;
+  top: 265.833vw;
   border: 0.069vw solid #20EB1B;
   border-radius: 13.889vw;
 }
