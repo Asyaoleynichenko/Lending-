@@ -92,6 +92,58 @@ p{
   filter: drop-shadow(0px 0.139vw 0.486vw #20EB1B);
   border-radius: 13.889vw;
 }
+.p1{
+  position: absolute;
+width: 480px;
+height: 48px;
+left: 59px;
+top: 396.59px;
+
+font-family: 'Exo 2';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.email{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 407px;
+  height: 67px;
+  left: 65px;
+  top: 476.59px;
+
+  border: 1px solid #20EB1B;
+  border-radius: 200px;
+}
+.start{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 154px;
+  height: 67px;
+  left: 482px;
+  top: 476.59px;
+  border: 1px solid #20EB1B;
+  border-radius: 200px;
+}
+.startwithoutlogin{
+  box-sizing: border-box;
+
+position: absolute;
+width: 407px;
+height: 67px;
+left: 65px;
+top: 562.59px;
+
+border: 1px solid #20EB1B;
+border-radius: 200px;
+}
 .brain{
   position: absolute;
   width: 49.583vw;
