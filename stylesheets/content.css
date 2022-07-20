@@ -73,10 +73,10 @@ p{
 }
 .brain{
   position: absolute;
-  width: 714px;
-  height: 612px;
-  left: 696px;
-  top: 304px;
+  width: 49.583vw;
+  height: 42.500vw;
+  left: 48.333vw;
+  top: 21.111vw;
 }
 .flex1{
   flex-direction: row;
@@ -85,22 +85,22 @@ p{
 }
 .s1{
   position: absolute;
-  width: 507px;
-  height: 498px;
-  left: 105px;
-  top: 1247px;
+  width: 35.208vw;
+  height: 34.583vw;
+  left: 7.292vw;
+  top: 87.153vw;
 }
 .s2{
   position: absolute;
-  width: 507px;
-  height: 492px;
-  left: 795px;
-  top: 1255px;
+  width: 35.208vw;
+  height: 34.583vw;
+  left: 55.208vw;
+  top: 87.153vw;
 }
 .friends{
   position: absolute;
   left: 26.39%;
   right: 26.88%;
-  top: 77.18%;
-  bottom: 5.13%;
+  top: 300vw;
+
 }
