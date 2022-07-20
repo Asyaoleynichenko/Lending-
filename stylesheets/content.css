@@ -36,13 +36,30 @@ h1{
   height: 14.306vw;
   margin-left: 2.778vw;
   top: 10.874vw;
-
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 500;
   font-size: 6.667vw;
   line-height: 117.88%;
   letter-spacing: 0.03em;
+}
+h2{
+  position: absolute;
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.819vw;
+  line-height: 117.88%;
+  /* or 65px */
+
+  letter-spacing: 0.03em;
+
+  background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+
 }
 p{
  color: white;
