@@ -317,11 +317,11 @@ text-fill-color: transparent;
 .text2{
   box-sizing: border-box;
 
-  position: absolute;
+  position: relative;
   width: 39.236vw;
   height: 14.236vw;
   left: 55.208vw;
-  top: 122.917vw;
+  top: 108.5vw;
 
   background: #000000;
   border: 0.069vw solid #FFFFFF;
