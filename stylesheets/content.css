@@ -1,5 +1,6 @@
 body{
   background-color: black;
+  overflow-x: hidden;
 }
 header{
   position: fixed;
@@ -184,15 +185,15 @@ text-fill-color: transparent;
 }
 .h23{
   position: absolute;
-  width: 1334px;
-  height: 153px;
-  left: 451px;
-  top: 3088px;
+  width: 92.639vw;
+  height: 10.625vw;
+  left: 31.319vw;
+  top: 214.444vw;
 
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 500;
-  font-size: 55px;
+  font-size: 3.819vw;
   line-height: 117.88%;
 
   letter-spacing: 0.03em;
@@ -302,7 +303,7 @@ text-fill-color: transparent;
 .text1{
   box-sizing: border-box;
 
-  position: absolute;
+  position: relative;
   width: 39.236vw;
   height: 14.236vw;
   left: 4.722vw;
