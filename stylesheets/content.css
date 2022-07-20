@@ -28,6 +28,11 @@ button{
   border: 1px solid #20EB1B;
   border-radius: 13.889vw;
 }
+input{
+  background-color: black;
+  border: 1px solid #20EB1B;
+  border-radius: 13.889vw;
+}
 h1{
   color: white;
   position: absolute;
@@ -49,7 +54,6 @@ h2{
   font-weight: 500;
   font-size: 3.819vw;
   line-height: 117.88%;
-  /* or 65px */
 
   letter-spacing: 0.03em;
 
