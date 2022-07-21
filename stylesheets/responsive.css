@@ -117,72 +117,60 @@
        }
     .logo{
       position: absolute;
-      width: 12.292vw;
-      height: 3.472vw;
-      left: 4.306vw;
-      top: 1.736vw;
+      width: 86px;
+      height: 23px;
+      left: 20px;
+      top: 44px;
     }
     .logo2{
       position: absolute;
-    width: 5.347vw;
-    height: 5.486vw;
-    left: 91vw;
-    top: 0.5vw;
+      width: 38px;
+      height: 38px;
+      left: 327px;
+      top: 2241px;
 
 
     }
     .login{
       box-sizing: border-box;
-      color: white;
+
       position: absolute;
-      width: 12.986vw;
-      height: 4.097vw;
-      left: 80.556vw;
-      top: 1.042vw;
-      background-color: black;
-      border: 0.069vw solid #20EB1B;
-      border-radius: 13.889vw;
+      width: 72px;
+      height: 24px;
+      left: 298px;
+      top: 43px;
     }
     .aboutus{
       box-sizing: border-box;
-      color: white;
+
       position: absolute;
-      width: 12.986vw;
-      height: 4.097vw;
-      left: 66.875vw;
-      top: 1.042vw;
-      background-color: black;
-      border: 0.069vw solid #20EB1B;
-      border-radius: 13.889vw;
+      width: 72px;
+      height: 24px;
+      left: 223px;
+      top: 43px;
     }
     .p1{
       position: absolute;
-    width: 33.333vw;
-    height: 3.333vw;
-    left: 4.097vw;
-    top: 24vw;
+      width: 139px;
+      height: 36px;
+      left: 20px;
+      top: 167px;
+      font-weight: 300;
+      font-size: 10px;
+      line-height: 12px;
+      display: flex;
+      align-items: center;
 
-    font-family: 'Exo 2';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 1.389vw;
-    line-height: 1.667vw;
-    display: flex;
-    align-items: center;
-
-    color: #FFFFFF;
     }
     .p2{
       position: absolute;
-      width: 35.833vw;
-      height: 14.306vw;
-      left: 60vw;
-      top: 158.819vw;
+      width: 242px;
+      height: 51px;
+      left: 74px;
+      top: 1422px;
 
-      font-family: 'Exo 2';
-      font-style: normal;
       font-weight: 500;
-      font-size: 1.389vw;
+      font-size: 12px;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
@@ -190,151 +178,131 @@
     }
      .p3{
        position: absolute;
-       width: 35.833vw;
-       height: 2.986vw;
-       left: 60vw;
-       top: 177.639vw;
+       width: 249px;
+       height: 43px;
+       left: 74px;
+       top: 1566px;
 
        font-family: 'Exo 2';
-       font-style: normal;
        font-weight: 500;
-       font-size: 1.389vw;
+       font-size: 12px;
        line-height: 117.88%;
 
       letter-spacing: 0.03em;
      }
       .p4{
         position: absolute;
-        width: 35.833vw;
-        height: 14.306vw;
-        left: 60vw;
-        top: 192.986vw;
+        width: 242px;
+        height: 49px;
+        left: 74px;
+        top: 1721px;
 
         font-family: 'Exo 2';
         font-style: normal;
         font-weight: 500;
-        font-size: 1.389vw;
+        font-size: 13px;
         line-height: 117.88%;
 
         letter-spacing: 0.03em;
       }
     .h21{
       position: absolute;
-    width: 92.639vw;
-    height: 10.625vw;
-    left: 8.681vw;
-    top: 75.347vw;
+      width: 1481px;
+      height: 33px;
+      left: 24px;
+      top: 532px;
 
-    font-family: 'Exo 2';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 3.819vw;
-    line-height: 117.88%;
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 117.88%;
 
     letter-spacing: 0.03em;
-
-    background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
     }
     .h22{
       position: absolute;
-      width: 92.639vw;
-      height: 10.625vw;
-      left: 7.292vw;
-      top: 145.347vw;
+      width: 1481px;
+      height: 33px;
+      left: 22px;
+      top: 1300px;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 3.819vw;
+      font-size: 16px;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
-
-      background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      text-fill-color: transparent;
-
     }
     .h23{
       position: absolute;
-      width: 92.639vw;
-      height: 10.625vw;
-      left: 31.319vw;
-      top: 214.444vw;
+      width: 1334px;
+      height: 153px;
+      left: 94px;
+      top: 1801px;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 3.819vw;
+      font-size: 20px;
       line-height: 117.88%;
-
       letter-spacing: 0.03em;
-
-      background: linear-gradient(90.94deg, #00FF19 11.27%, rgba(180, 235, 255, 0.979006) 18.63%, #FF70DD 36.51%, rgba(5, 0, 255, 0.94) 85.65%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      text-fill-color: transparent;
     }
-    .h11{
-      position: absolute;
-      width: 70.139vw;
-      height: 14.306vw;
-      left: 4.722vw;
-      top: 158.333vw;
+  .h11{
+  position: absolute;
+  width: 169px;
+  height: 32px;
+  left: 111px;
+  top: 1364px;
 
-      font-family: 'Exo 2';
-      font-style: normal;
-      font-weight: 500;
-      font-size: 4.444vw;
-      line-height: 117.88%;
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 117.88%;
 
-      letter-spacing: 0.03em;
+  letter-spacing: 0.03em;
     }
     .h12{
       position: absolute;
-      width: 70.139vw;
-      height: 14.306vw;
-      left: 4.722vw;
-      top: 175.486vw;
+      width: 264px;
+      height: 35px;
+      left: 94px;
+      top: 1502px;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 4.444vw;
+      font-size: 24px;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
     }
     .h13{
       position: absolute;
-      width: 54.097vw;
-      height: 14.306vw;
-      left: 4.722vw;
-      top: 192.639vw;
+      width: 368px;
+      height: 90px;
+      left: 11px;
+      top: 1609px;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 4.444vw;
+      font-size: 24px;
       line-height: 117.88%;
 
+      text-align: center;
       letter-spacing: 0.03em;
     }
     .email{
       box-sizing: border-box;
 
       position: absolute;
-      width: 17.917vw;
-      height: 4.653vw;
-      left: 4.514vw;
-      top: 33.097vw;
+      width: 90px;
+      height: 21px;
+      left: 203px;
+      top: 163px;
 
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
@@ -343,22 +311,20 @@
       box-sizing: border-box;
 
       position: absolute;
-      width: 28.264vw;
-      height: 4.653vw;
-      left: 24.931vw;
-      top: 265.833vw;
+      width: 188px;
+      height: 37px;
+      left: 36px;
+      top: 2179px;
 
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
     }
     .start2{
-      box-sizing: border-box;
-
       position: absolute;
-      width: 18.542vw;
-      height: 4.653vw;
-      left: 53.889vw;
-      top: 265.833vw;
+      width: 124px;
+      height: 37px;
+      left: 229px;
+      top: 2179px;
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
     }
@@ -366,60 +332,49 @@
       box-sizing: border-box;
 
       position: absolute;
-      width: 10vw;
-      height: 4.653vw;
-      left: 22.639vw;
-      top: 33.097vw;
-      border: 0.069vw solid #20EB1B;
-      border-radius: 13.889vw;
+      width: 52px;
+      height: 21px;
+      left: 295px;
+      top: 163px;
     }
     .startwithoutlogin{
-      box-sizing: border-box;
-
       position: absolute;
-      width: 28.264vw;
-      height: 4.653vw;
-      left: 4.514vw;
-      top: 39.069vw;
+      width: 144px;
+      height: 21px;
+      left: 203px;
+      top: 189px;
 
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
     }
     .brain{
       position: absolute;
-      width: 49.583vw;
-      height: 42.500vw;
-      left: 48.333vw;
-      top: 14vw;
+      width: 356px;
+      height: 308px;
+      left: 12px;
+      top: 199px;
 
     }
-    .flex1{
-      flex-direction: row;
-      flex-wrap: wrap;
-    }
-
     .s1{
       position: absolute;
-      width: 35.208vw;
-      height: 34.583vw;
-      left: 7.292vw;
-      top: 87.153vw;
+      width: 219px;
+      height: 218px;
+      left: 86px;
+      top: 573px;
     }
     .s2{
       position: absolute;
-      width: 35.208vw;
-      height: 34.583vw;
-      left: 55.208vw;
-      top: 87.153vw;
+      width: 219px;
+      height: 218px;
+      left: 86px;
+      top: 920px;
     }
     .text1{
-      box-sizing: border-box;
-
-      position: relative;
-      width: 39.236vw;
-      height: 14.236vw;
-      left: 4.722vw;
-      top: 122.917vw;
+      position: absolute;
+      width: 239px;
+      height: 101px;
+      left: 76px;
+      top: 800px;
 
       background: #000000;
       border: 0.069vw solid #FFFFFF;
@@ -427,13 +382,11 @@
       border-radius: 13.889vw;
     }
     .text2{
-      box-sizing: border-box;
-
-      position: relative;
-      width: 39.236vw;
-      height: 14.236vw;
-      left: 55.208vw;
-      top: 108.5vw;
+      position: absolute;
+      width: 239px;
+      height: 101px;
+      left: 76px;
+      top: 1148px;
 
       background: #000000;
       border: 0.069vw solid #FFFFFF;
@@ -441,11 +394,11 @@
       border-radius: 13.889vw;
     }
     .friends{
-      position: absolute;
-      height: 50vw;
-      width: 46.736vw;
-      left: 26.389vw;
-      top: 218.194vw;
+      height: 323px;
+      width: 335px;
+      left: 26px;
+      top: 1848px;
+
 
     }
 }
