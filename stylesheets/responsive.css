@@ -76,62 +76,377 @@
 
       letter-spacing: 0.03em;
     }
+    h1{
+      color: white;
+      position: absolute;
+      width: 70.139vw;
+      height: 14.306vw;
+      margin-left: 4vw;
+      top: 7vw;
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 6.667vw;
+      line-height: 117.88%;
+      letter-spacing: 0.03em;
+    }
+    h2{
+      position: absolute;
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 3.819vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+
+      background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+
+    }
+    p{
+     color: white;
+     font-family: 'Exo 2';
+    }
+    ::selection {
+        background: #16E52B;
+        color: black;
+       }
     .logo{
       position: absolute;
-      width: 86px;
-      height: 23px;
-      left: 20px;
-      top: 5vw;
+      width: 12.292vw;
+      height: 3.472vw;
+      left: 4.306vw;
+      top: 1.736vw;
+    }
+    .logo2{
+      position: absolute;
+    width: 5.347vw;
+    height: 5.486vw;
+    left: 91vw;
+    top: 0.5vw;
 
+
+    }
+    .login{
+      box-sizing: border-box;
+      color: white;
+      position: absolute;
+      width: 12.986vw;
+      height: 4.097vw;
+      left: 80.556vw;
+      top: 1.042vw;
+      background-color: black;
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .aboutus{
+      box-sizing: border-box;
+      color: white;
+      position: absolute;
+      width: 12.986vw;
+      height: 4.097vw;
+      left: 66.875vw;
+      top: 1.042vw;
+      background-color: black;
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .p1{
+      position: absolute;
+    width: 33.333vw;
+    height: 3.333vw;
+    left: 4.097vw;
+    top: 24vw;
+
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.389vw;
+    line-height: 1.667vw;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+    }
+    .p2{
+      position: absolute;
+      width: 35.833vw;
+      height: 14.306vw;
+      left: 60vw;
+      top: 158.819vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 1.389vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+
+    }
+     .p3{
+       position: absolute;
+       width: 35.833vw;
+       height: 2.986vw;
+       left: 60vw;
+       top: 177.639vw;
+
+       font-family: 'Exo 2';
+       font-style: normal;
+       font-weight: 500;
+       font-size: 1.389vw;
+       line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+     }
+      .p4{
+        position: absolute;
+        width: 35.833vw;
+        height: 14.306vw;
+        left: 60vw;
+        top: 192.986vw;
+
+        font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 1.389vw;
+        line-height: 117.88%;
+
+        letter-spacing: 0.03em;
+      }
+    .h21{
+      position: absolute;
+    width: 92.639vw;
+    height: 10.625vw;
+    left: 8.681vw;
+    top: 75.347vw;
+
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.819vw;
+    line-height: 117.88%;
+
+    letter-spacing: 0.03em;
+
+    background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    }
+    .h22{
+      position: absolute;
+      width: 92.639vw;
+      height: 10.625vw;
+      left: 7.292vw;
+      top: 145.347vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 3.819vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+
+      background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+
+    }
+    .h23{
+      position: absolute;
+      width: 92.639vw;
+      height: 10.625vw;
+      left: 31.319vw;
+      top: 214.444vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 3.819vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+
+      background: linear-gradient(90.94deg, #00FF19 11.27%, rgba(180, 235, 255, 0.979006) 18.63%, #FF70DD 36.51%, rgba(5, 0, 255, 0.94) 85.65%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+    }
+    .h11{
+      position: absolute;
+      width: 70.139vw;
+      height: 14.306vw;
+      left: 4.722vw;
+      top: 158.333vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 4.444vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+    }
+    .h12{
+      position: absolute;
+      width: 70.139vw;
+      height: 14.306vw;
+      left: 4.722vw;
+      top: 175.486vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 4.444vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+    }
+    .h13{
+      position: absolute;
+      width: 54.097vw;
+      height: 14.306vw;
+      left: 4.722vw;
+      top: 192.639vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 4.444vw;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+    }
+    .email{
+      box-sizing: border-box;
+
+      position: absolute;
+      width: 17.917vw;
+      height: 4.653vw;
+      left: 4.514vw;
+      top: 33.097vw;
+
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .email2{
+      box-sizing: border-box;
+
+      position: absolute;
+      width: 28.264vw;
+      height: 4.653vw;
+      left: 24.931vw;
+      top: 265.833vw;
+
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .start2{
+      box-sizing: border-box;
+
+      position: absolute;
+      width: 18.542vw;
+      height: 4.653vw;
+      left: 53.889vw;
+      top: 265.833vw;
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .start{
+      box-sizing: border-box;
+
+      position: absolute;
+      width: 10vw;
+      height: 4.653vw;
+      left: 22.639vw;
+      top: 33.097vw;
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .startwithoutlogin{
+      box-sizing: border-box;
+
+      position: absolute;
+      width: 28.264vw;
+      height: 4.653vw;
+      left: 4.514vw;
+      top: 39.069vw;
+
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
     }
     .brain{
       position: absolute;
-      width: 354px;
-      height: 292px;
-      left: 12px;
-      top: 210px;
-
+      width: 49.583vw;
+      height: 42.500vw;
+      left: 48.333vw;
+      top: 14vw;
 
     }
+    .flex1{
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+
     .s1{
       position: absolute;
-      width: 219px;
-      height: 218px;
-      left: 76px;
-      top: 572px;
+      width: 35.208vw;
+      height: 34.583vw;
+      left: 7.292vw;
+      top: 87.153vw;
     }
     .s2{
       position: absolute;
-      width: 219px;
-      height: 218px;
-      left: 76px;
-      top: 572px;
+      width: 35.208vw;
+      height: 34.583vw;
+      left: 55.208vw;
+      top: 87.153vw;
     }
     .text1{
       box-sizing: border-box;
 
-      position: absolute;
-      width: 239px;
-      height: 101px;
-      left: 65px;
-      top: 800px;
+      position: relative;
+      width: 39.236vw;
+      height: 14.236vw;
+      left: 4.722vw;
+      top: 122.917vw;
 
       background: #000000;
-      border: 1px solid #FFFFFF;
-      box-shadow: 0px 2px 7px #20EB1B;
-      border-radius: 200px;
+      border: 0.069vw solid #FFFFFF;
+      box-shadow: 0vw 0.139vw 0.486vw #20EB1B;
+      border-radius: 13.889vw;
     }
     .text2{
-      position: absolute;
-      width: 239px;
-      height: 101px;
-      left: 65px;
-      top: 1148px;
+      box-sizing: border-box;
+
+      position: relative;
+      width: 39.236vw;
+      height: 14.236vw;
+      left: 55.208vw;
+      top: 108.5vw;
 
       background: #000000;
-      border: 1px solid #FFFFFF;
-      box-shadow: 0px 2px 7px #20EB1B;
-      border-radius: 200px;
+      border: 0.069vw solid #FFFFFF;
+      box-shadow: 0vw 0.139vw 0.486vw #20EB1B;
+      border-radius: 13.889vw;
+    }
+    .friends{
+      position: absolute;
+      height: 50vw;
+      width: 46.736vw;
+      left: 26.389vw;
+      top: 218.194vw;
+
     }
 }
 
