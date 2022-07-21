@@ -23,6 +23,113 @@
     height: 19.487vw;
     box-shadow: -0.513vw -0.256vw 8.205vw rgba(0, 255, 33, 0.92);
   }
+  footer{
+    position: relative;
+    width: 99%;
+    height: 6.319vw;
+    top: 246vw;
+    border: 0.069vw solid #20EB1B;
+    border-radius: 2.5vw;
+    }
+    button{
+      cursor: pointer;
+      box-sizing: border-box;
+      color: white;
+      position: absolute;
+      background-color: black;
+      border: 0.069vw solid #20EB1B;
+      border-radius: 13.889vw;
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 300;
+      font-size: 1.667vw;
+      line-height: 2.014vw;
+      text-decoration: none;
+    }
+    input{
+      position: absolute;
+      width: 90px;
+      height: 21px;
+      left: 204px;
+      top: 156px;
+
+      border: 0.5px solid #20EB1B;
+      filter: drop-shadow(0px 2px 7px #20EB1B);
+      border-radius: 200px;
+
+    }
+    h1{
+      position: absolute;
+      width: 235px;
+      height: 206px;
+      left: 19px;
+      top: 100px;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 117.88%;
+
+      letter-spacing: 0.03em;
+    }
+    .logo{
+      position: absolute;
+      width: 86px;
+      height: 23px;
+      left: 20px;
+      top: 5vw;
+
+    }
+    .brain{
+      position: absolute;
+      width: 354px;
+      height: 292px;
+      left: 12px;
+      top: 210px;
+
+
+    }
+    .s1{
+      position: absolute;
+      width: 219px;
+      height: 218px;
+      left: 76px;
+      top: 572px;
+    }
+    .s2{
+      position: absolute;
+      width: 219px;
+      height: 218px;
+      left: 76px;
+      top: 572px;
+    }
+    .text1{
+      box-sizing: border-box;
+
+      position: absolute;
+      width: 239px;
+      height: 101px;
+      left: 65px;
+      top: 800px;
+
+      background: #000000;
+      border: 1px solid #FFFFFF;
+      box-shadow: 0px 2px 7px #20EB1B;
+      border-radius: 200px;
+    }
+    .text2{
+      position: absolute;
+      width: 239px;
+      height: 101px;
+      left: 65px;
+      top: 1148px;
+
+      background: #000000;
+      border: 1px solid #FFFFFF;
+      box-shadow: 0px 2px 7px #20EB1B;
+      border-radius: 200px;
+    }
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
