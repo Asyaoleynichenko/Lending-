@@ -13,10 +13,10 @@ header{
   z-index: 6;
 }
 footer{
-  position: absolute;
+  position: relative;
 width: 99%;
 height: 6.319vw;
-top: 276.389vw;
+top: 246vw;
 border: 0.069vw solid #20EB1B;
 border-radius: 2.5vw;
 }
@@ -98,6 +98,14 @@ p{
   height: 3.472vw;
   left: 4.306vw;
   top: 1.736vw;
+}
+.logo2{
+  position: absolute;
+width: 77.78px;
+height: 79px;
+left: 1271.46px;
+
+
 }
 .login{
   box-sizing: border-box;
@@ -267,7 +275,7 @@ text-fill-color: transparent;
   width: 49.583vw;
   height: 42.500vw;
   left: 48.333vw;
-  top: 21.111vw;
+  top: 17vw;
 }
 .flex1{
   flex-direction: row;
