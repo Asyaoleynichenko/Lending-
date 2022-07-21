@@ -213,6 +213,51 @@ text-fill-color: transparent;
   background-clip: text;
   text-fill-color: transparent;
 }
+.h11{
+  position: absolute;
+  width: 1010px;
+  height: 206px;
+  left: 68px;
+  top: 2280px;
+
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 117.88%;
+
+  letter-spacing: 0.03em;
+}
+.h12{
+  position: absolute;
+  width: 1010px;
+  height: 206px;
+  left: 68px;
+  top: 2527px;
+
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 117.88%;
+
+  letter-spacing: 0.03em;
+}
+.h13{
+  position: absolute;
+  width: 779px;
+  height: 206px;
+  left: 68px;
+  top: 2774px;
+
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 117.88%;
+
+  letter-spacing: 0.03em;
+}
 .email{
   box-sizing: border-box;
 
@@ -277,25 +322,13 @@ text-fill-color: transparent;
   height: 42.500vw;
   left: 48.333vw;
   top: 17vw;
-  background: url(Brainstorming-002-1 2.png);
+
 }
 .flex1{
   flex-direction: row;
   flex-wrap: wrap;
 }
-.flex2{
-  position: absolute;
-  flex-direction: row;
-  top: 158.333vw;
-}
-.flex3{
-  display: flex;
-  width: 70.139vw;
-  height: 48.611vw;
-  left: 4.722vw;
-  top: 158.333vw;
 
-}
 .s1{
   position: absolute;
   width: 35.208vw;
