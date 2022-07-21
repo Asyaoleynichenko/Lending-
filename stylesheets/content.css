@@ -4,7 +4,7 @@ body{
 }
 header{
   position: fixed;
-  width: 100%;
+  width: 100vw;
   height: 5.903vw;
   background-color: black;
   border-bottom-right-radius: 2.5vw;
