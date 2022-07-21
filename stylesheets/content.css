@@ -2,6 +2,7 @@ body{
   background-color: black;
   overflow-x: hidden;
   background-size:cover;
+  scroll-behavior: smooth;
 }
 header{
   position: fixed;
