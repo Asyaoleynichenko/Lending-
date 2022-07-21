@@ -22,17 +22,17 @@
   }
   header{
     position: fixed;
-    width: 100%;
-    height: 19.487vw;
+    height: 76px;
+    width: 390px;
     box-shadow: -0.513vw -0.256vw 8.205vw rgba(0, 255, 33, 0.92);
   }
   footer{
-    position: relative;
-    width: 99%;
-    height: 6.319vw;
-    top: 246vw;
-    border: 0.069vw solid #20EB1B;
-    border-radius: 2.5vw;
+    height: 64px;
+    width: 390px;
+    left: 0px;
+    top: 2235px;
+    border-radius: 36px;
+
     }
     button{
       cursor: pointer;
@@ -127,7 +127,7 @@
       width: 38px;
       height: 38px;
       left: 327px;
-      top: 2241px;
+      top: 5vw;
 
 
     }
