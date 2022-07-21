@@ -101,9 +101,10 @@ p{
 }
 .logo2{
   position: absolute;
-width: 77.78px;
-height: 79px;
-left: 1271.46px;
+width: 5.347vw;
+height: 5.486vw;
+left: 91vw;
+top: 0.5vw;
 
 
 }
@@ -276,6 +277,7 @@ text-fill-color: transparent;
   height: 42.500vw;
   left: 48.333vw;
   top: 17vw;
+  background: url(Brainstorming-002-1 2.png);
 }
 .flex1{
   flex-direction: row;
