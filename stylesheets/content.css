@@ -425,3 +425,30 @@ text-fill-color: transparent;
   top: 218.194vw;
 
 }
+/*.ball1{
+  position: absolute;
+  width: 301px;
+  height: 283px;
+  left: 1052px;
+  top: 16px;
+  overflow: hidden;
+  background: #3B37FF;
+}
+.ball2{
+  position: absolute;
+  width: 301px;
+  height: 283px;
+  left: 1160px;
+  top: 42px;
+  overflow: hidden;
+  background: #31FFFF;
+}
+.ball3{
+  position: absolute;
+  width: 301px;
+  height: 283px;
+  left: 1243px;
+  top: 171px;
+  overflow: hidden;
+  background: #31FFFF;
+}

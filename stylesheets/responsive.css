@@ -17,9 +17,12 @@
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
   /* iPhone Portrait */
+  body{
+    overflow-x: hidden;
+  }
   header{
     position: fixed;
-    width: 100vw;
+    width: 100%;
     height: 19.487vw;
     box-shadow: -0.513vw -0.256vw 8.205vw rgba(0, 255, 33, 0.92);
   }
