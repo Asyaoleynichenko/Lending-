@@ -58,8 +58,8 @@ h1{
   position: absolute;
   width: 70.139vw;
   height: 14.306vw;
-  margin-left: 2.778vw;
-  top: 10.874vw;
+  margin-left: 4vw;
+  top: 7vw;
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 500;
@@ -137,7 +137,7 @@ top: 0.5vw;
 width: 33.333vw;
 height: 3.333vw;
 left: 4.097vw;
-top: 27.541vw;
+top: 24vw;
 
 font-family: 'Exo 2';
 font-style: normal;
@@ -367,7 +367,7 @@ text-fill-color: transparent;
   width: 49.583vw;
   height: 42.500vw;
   left: 48.333vw;
-  top: 17vw;
+  top: 14vw;
 
 }
 .flex1{
