@@ -29,12 +29,10 @@
     overflow-x: hidden;
   }
   footer{
-    height: 64px;
+    height: 44px;
     width: 390px;
-    left: 0px;
     top: 2235px;
     border-radius: 36px;
-
     }
     button{
       cursor: pointer;
