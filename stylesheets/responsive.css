@@ -22,8 +22,8 @@
   }
   header{
     position: fixed;
-    height: 76px;
     width: 390px;
+    height: 52px;
     box-shadow: -0.513vw -0.256vw 8.205vw rgba(0, 255, 33, 0.92);
   }
   footer{
@@ -57,37 +57,22 @@
       top: 156px;
 
       border: 0.5px solid #20EB1B;
-      filter: drop-shadow(0px 2px 7px #20EB1B);
       border-radius: 200px;
 
     }
     h1{
       position: absolute;
-      width: 235px;
-      height: 206px;
-      left: 19px;
-      top: 100px;
+      width: 338px;
+      height: 56px;
+      left: 5px;
+      top: 61px;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 24px;
+      font-size: 36px;
       line-height: 117.88%;
 
-      letter-spacing: 0.03em;
-    }
-    h1{
-      color: white;
-      position: absolute;
-      width: 70.139vw;
-      height: 14.306vw;
-      margin-left: 4vw;
-      top: 7vw;
-      font-family: 'Exo 2';
-      font-style: normal;
-      font-weight: 500;
-      font-size: 6.667vw;
-      line-height: 117.88%;
       letter-spacing: 0.03em;
     }
     h2{
@@ -120,7 +105,7 @@
       width: 86px;
       height: 23px;
       left: 20px;
-      top: 44px;
+      top: 21px;
     }
     .logo2{
       position: absolute;
@@ -138,7 +123,7 @@
       width: 72px;
       height: 24px;
       left: 298px;
-      top: 43px;
+      top: 17px;
     }
     .aboutus{
       box-sizing: border-box;
@@ -147,7 +132,7 @@
       width: 72px;
       height: 24px;
       left: 223px;
-      top: 43px;
+      top: 17px;
     }
     .p1{
       position: absolute;
