@@ -1,12 +1,7 @@
-html{
-  min-height: 100%;
-  white-space: nowrap;
-}
 body{
   background-color: black;
   overflow-x: hidden;
   background-size:cover;
-
 }
 header{
   position: fixed;
