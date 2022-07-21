@@ -19,14 +19,12 @@
   /* iPhone Portrait */
   body{
     overflow-x: hidden;
-    min-height: 100%;
   }
   header{
     position: fixed;
     width: 390px;
     height: 52px;
     box-shadow: -0.513vw -0.256vw 8.205vw rgba(0, 255, 33, 0.92);
-    overflow: hidden;
   }
   footer{
     height: 64px;
