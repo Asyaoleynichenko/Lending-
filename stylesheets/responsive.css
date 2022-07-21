@@ -17,22 +17,24 @@
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
   /* iPhone Portrait */
-
+ *{
+   overflow: hidden;
+ }
   body{
     overflow-x: hidden;
   }
   header{
     position: fixed;
-    width: 390px;
-    height: 52px;
+    width: 100vw;
+    height: 13.333vw;
     box-shadow: -0.513vw -0.256vw 8.205vw rgba(0, 255, 33, 0.92);
     overflow-x: hidden;
   }
   footer{
-    height: 44px;
-    width: 390px;
-    top: 2235px;
-    border-radius: 36px;
+    height: 11.282vw;
+    width: 100vw;
+    top: 573.077vw;
+    border-radius: 9.231vw;
     }
     button{
       cursor: pointer;
@@ -51,13 +53,13 @@
     }
     input{
       position: absolute;
-      width: 90px;
-      height: 21px;
-      left: 204px;
-      top: 156px;
+      width: 23.077vw;
+      height: 5.385vw;
+      left: 52.308vw;
+      top: 40vw;
 
-      border: 0.5px solid #20EB1B;
-      border-radius: 200px;
+      border: 0.128vw solid #20EB1B;
+      border-radius: 51.282vw;
 
     }
     h1{
