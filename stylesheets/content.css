@@ -566,6 +566,54 @@ text-fill-color: transparent;
   bottom: 0;
   right: 0;
 }
+.colors4 {
+  position: absolute;
+  display: block;
+  width: 27.778vw;
+  height: 30.778vw;
+  left: -20vw;
+  top: 160vw;
+  filter: blur(10vw);
+  animation: colors 15s linear infinite reverse;
+  z-index: 0;
+}
+.circle4 {
+
+  position: absolute;
+  display: block;
+
+  width: 13.889vw;
+  height: 40.889vw;
+  border-radius: 100%;
+}
+.cl12 {
+  width: 20vw;
+  height: 40vw;
+  background: #FF37D3;
+  top: 0;
+  left: 0;
+}
+.cl13 {
+  width: 20vw;
+  height: 20vw;
+  background: #4F47FF;
+  top: 0;
+  right: 0;
+}
+.cl14 {
+  width: 20vw;
+  height: 20vw;
+  background: white;
+  bottom: 0;
+  left: 0;
+}
+.cl15 {
+  background: #FFF500;
+  width: 20vw;
+  height: 20vw;
+  bottom: 0;
+  right: 0;
+}
 /*.ball1{
   position: absolute;
   width: 301px;
