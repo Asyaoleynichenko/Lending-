@@ -17,9 +17,7 @@
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
   /* iPhone Portrait */
- *{
-   overflow: hidden;
- }
+
   body{
     overflow-x: hidden;
   }
@@ -64,7 +62,7 @@
     }
     h1{
       position: absolute;
-      width: 86.667vw;
+      width: 90vw;
       height: 14.359vw;
       left: 1vw;
       top: 15.641vw;
