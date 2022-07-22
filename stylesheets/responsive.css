@@ -64,15 +64,15 @@
     }
     h1{
       position: absolute;
-      width: 338px;
-      height: 56px;
-      left: 5px;
-      top: 61px;
+      width: 86.667vw;
+      height: 14.359vw;
+      left: 1vw;
+      top: 15.641vw;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 36px;
+      font-size: 9.231vw;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
@@ -98,22 +98,18 @@
      color: white;
      font-family: 'Exo 2';
     }
-    ::selection {
-        background: #16E52B;
-        color: black;
-       }
     .logo{
       position: absolute;
-      width: 86px;
-      height: 23px;
-      left: 20px;
-      top: 21px;
+      width: 22.051vw;
+      height: 5.897vw;
+      left: 5.128vw;
+      top: 5.385vw;
     }
     .logo2{
       position: absolute;
-      width: 38px;
-      height: 38px;
-      left: 327px;
+      width: 9.744vw;
+      height: 9.744vw;
+      left: 9.744vw;
       top: 5vw;
 
 
@@ -122,42 +118,42 @@
       box-sizing: border-box;
 
       position: absolute;
-      width: 72px;
-      height: 24px;
-      left: 298px;
-      top: 17px;
+      width: 18.462vw;
+      height: 6.154vw;
+      left: 76.410vw;
+      top: 4.359vw;
     }
     .aboutus{
       box-sizing: border-box;
 
       position: absolute;
-      width: 72px;
-      height: 24px;
-      left: 223px;
-      top: 17px;
+      width: 18.462vw;
+      height: 6.154vw;
+      left: 57.179vw;
+      top: 4.359vw;;
     }
     .p1{
       position: absolute;
-      width: 139px;
-      height: 36px;
-      left: 20px;
-      top: 167px;
+      width: 35.641vw;
+      height: 9.231vw;
+      left: 5.128vw;
+      top: 42.821vw;
       font-weight: 300;
-      font-size: 10px;
-      line-height: 12px;
+      font-size: 2.564vw;
+      line-height: 3.077vw;
       display: flex;
       align-items: center;
 
     }
     .p2{
       position: absolute;
-      width: 242px;
-      height: 51px;
-      left: 74px;
-      top: 1422px;
+      width: 62.051vw;
+      height: 13.077vw;
+      left: 18.974vw;
+      top: 364.615vw;
 
       font-weight: 500;
-      font-size: 12px;
+      font-size: 3.077vw;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
@@ -165,118 +161,118 @@
     }
      .p3{
        position: absolute;
-       width: 249px;
-       height: 43px;
-       left: 74px;
-       top: 1566px;
+       width: 63.846vw;
+       height: 11.026vw;
+       left: 18.974vw;
+       top: 401.538vw;
 
        font-family: 'Exo 2';
        font-weight: 500;
-       font-size: 12px;
+       font-size: 3.077vw;
        line-height: 117.88%;
 
       letter-spacing: 0.03em;
      }
       .p4{
         position: absolute;
-        width: 242px;
-        height: 49px;
-        left: 74px;
-        top: 1721px;
+        width: 62.051vw;
+        height: 12.564vw;
+        left: 18.974vw;
+        top: 441.282vw;
 
         font-family: 'Exo 2';
         font-style: normal;
         font-weight: 500;
-        font-size: 13px;
+        font-size: 3.077vw;
         line-height: 117.88%;
 
         letter-spacing: 0.03em;
       }
     .h21{
       position: absolute;
-      width: 1481px;
-      height: 33px;
-      left: 24px;
-      top: 532px;
+      width: 379.744vw;
+      height: 8.462vw;
+      left: 6.154vw;
+      top: 136.410vw;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 16px;
+      font-size: 4.103vw;
       line-height: 117.88%;
 
     letter-spacing: 0.03em;
     }
     .h22{
       position: absolute;
-      width: 1481px;
-      height: 33px;
-      left: 22px;
-      top: 1300px;
+      width: 379.744vw;
+      height: 8.462vw;
+      left: 5.641vw;
+      top: 333.333vw;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 16px;
+      font-size: 4.103vw;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
     }
     .h23{
       position: absolute;
-      width: 1334px;
-      height: 153px;
-      left: 94px;
-      top: 1801px;
+      width: 342.051vw;
+      height: 39.231vw;
+      left: 24.103vw;
+      top: 461.795vw;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 20px;
+      font-size: 5.128vw;
       line-height: 117.88%;
       letter-spacing: 0.03em;
     }
   .h11{
   position: absolute;
-  width: 169px;
-  height: 32px;
-  left: 111px;
-  top: 1364px;
+  width: 43.333vw;
+  height: 8.205vw;
+  left: 28.462vw;
+  top: 349.744vw;
 
   font-family: 'Exo 2';
   font-style: normal;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 6.154vw;
   line-height: 117.88%;
 
   letter-spacing: 0.03em;
     }
     .h12{
       position: absolute;
-      width: 264px;
-      height: 35px;
-      left: 94px;
-      top: 1502px;
+      width: 67.692vw;
+      height: 8.974vw;
+      left: 24.103vw;
+      top: 385.128vw;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 24px;
+      font-size: 6.154vw;
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
     }
     .h13{
       position: absolute;
-      width: 368px;
-      height: 90px;
-      left: 11px;
-      top: 1609px;
+      width: 94.359vw;
+      height: 23.077vw;
+      left: 2.821vw;
+      top: 412.564vw;
 
       font-family: 'Exo 2';
       font-style: normal;
       font-weight: 500;
-      font-size: 24px;
+      font-size: 6.154vw;
       line-height: 117.88%;
 
       text-align: center;
@@ -286,10 +282,10 @@
       box-sizing: border-box;
 
       position: absolute;
-      width: 90px;
-      height: 21px;
-      left: 203px;
-      top: 163px;
+      width: 23.077vw;
+      height: 5.385vw;
+      left: 52.051vw;
+      top: 41.795vw;
 
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
@@ -298,20 +294,20 @@
       box-sizing: border-box;
 
       position: absolute;
-      width: 188px;
-      height: 37px;
-      left: 36px;
-      top: 2179px;
+      width: 48.205vw;
+      height: 9.487vw;
+      left: 9.231vw;
+      top: 558.718vw;
 
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
     }
     .start2{
       position: absolute;
-      width: 124px;
-      height: 37px;
-      left: 229px;
-      top: 2179px;
+      width: 31.795vw;
+      height: 9.487vw;
+      left: 58.718vw;
+      top: 558.718vw;
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
     }
@@ -319,49 +315,49 @@
       box-sizing: border-box;
 
       position: absolute;
-      width: 52px;
-      height: 21px;
-      left: 295px;
-      top: 163px;
+      width: 13.333vw;
+      height: 5.385vw;
+      left: 75.641vw;
+      top: 41.795vw;
     }
     .startwithoutlogin{
       position: absolute;
-      width: 144px;
-      height: 21px;
-      left: 203px;
-      top: 189px;
+      width: 36.923vw;
+      height: 5.385vw;
+      left: 52.051vw;
+      top: 48.462vw;
 
       border: 0.069vw solid #20EB1B;
       border-radius: 13.889vw;
     }
     .brain{
       position: absolute;
-      width: 356px;
-      height: 308px;
-      left: 12px;
-      top: 199px;
+      width: 91.282vw;
+      height: 78.974vw;
+      left: 3.077vw;
+      top: 51.026vw;
 
     }
     .s1{
       position: absolute;
-      width: 219px;
-      height: 218px;
-      left: 86px;
-      top: 573px;
+      width: 56.154vw;
+      height: 55.897vw;
+      left: 22.051vw;
+      top: 146.923vw;
     }
     .s2{
       position: absolute;
-      width: 219px;
-      height: 218px;
-      left: 86px;
-      top: 920px;
+      width: 56.154vw;
+      height: 55.897vw;
+      left: 22.051vw;
+      top: 235.897vw;
     }
     .text1{
       position: absolute;
-      width: 239px;
-      height: 101px;
-      left: 76px;
-      top: 800px;
+      width: 61.282vw;
+      height: 25.897vw;
+      left: 19.487vw;
+      top: 205.128vw;
 
       background: #000000;
       border: 0.069vw solid #FFFFFF;
@@ -370,10 +366,10 @@
     }
     .text2{
       position: absolute;
-      width: 239px;
-      height: 101px;
-      left: 76px;
-      top: 1148px;
+      width: 61.282vw;
+      height: 25.897vw;
+      left: 19.487vw;
+      top: 294.359vw;
 
       background: #000000;
       border: 0.069vw solid #FFFFFF;
@@ -381,10 +377,10 @@
       border-radius: 13.889vw;
     }
     .friends{
-      height: 323px;
-      width: 335px;
-      left: 26px;
-      top: 1848px;
+      height: 82.821vw;
+      width: 85.897vw;
+      left: 6.667vw;
+      top: 473.846vw;
 
 
     }
