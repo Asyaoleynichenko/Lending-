@@ -519,8 +519,8 @@ text-fill-color: transparent;
   display: block;
   width: 27.778vw;
   height: 27.778vw;
-  left: -3vw;
-  top: 40vw;
+  left: 30vw;
+  top: 100vw;
   filter: blur(10vw);
   animation: colors 15s linear infinite reverse;
 }
@@ -534,26 +534,30 @@ text-fill-color: transparent;
   border-radius: 100%;
 }
 .cl8 {
-  width: 20.833vw;
-  height: 20.833vw;
+  width: 40vw;
+  height: 40vw;
   background: #3B37FF;
   top: 0;
   left: 0;
 }
 .cl9 {
+  width: 40vw;
+  height: 40vw;
   background: #31FFFF;
   top: 0;
   right: 0;
 }
 .cl10 {
+  width: 40vw;
+  height: 40vw;
   background: #00FF21;
   bottom: 0;
   left: 0;
 }
 .cl11 {
   background: #31FFFF;
-  width: 6.944vw;
-  height: 6.944vw;
+  width: 40vw;
+  height: 20vw;
   bottom: 0;
   right: 0;
 }
