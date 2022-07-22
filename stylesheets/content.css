@@ -437,6 +437,7 @@ text-fill-color: transparent;
   top: 3.472vw;
   filter: blur(7.639vw);
   animation: colors 15s linear infinite;
+  z-index: 0;
 }
 .circle {
 
@@ -480,6 +481,7 @@ text-fill-color: transparent;
   top: 40vw;
   filter: blur(10vw);
   animation: colors 15s linear infinite reverse;
+  z-index: 0;
 }
 .circle2 {
 
@@ -523,6 +525,7 @@ text-fill-color: transparent;
   top: 100vw;
   filter: blur(10vw);
   animation: colors 15s linear infinite reverse;
+  z-index: 0;
 }
 .circle3 {
 
