@@ -346,7 +346,14 @@
       height: 78.974vw;
       left: 3.077vw;
       top: 51.026vw;
+      z-index: 1;
 
+    }
+    .colors3{
+      top: 210vw;
+      width: 1vw;
+      height: 20vw;
+      left: 5vw;
     }
     .s1{
       position: absolute;
