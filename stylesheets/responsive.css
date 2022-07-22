@@ -375,6 +375,39 @@
       box-shadow: 0vw 0.139vw 0.486vw #20EB1B;
       border-radius: 13.889vw;
     }
+    .name1{
+      position: absolute;
+      width: 131.795vw;
+      height: 24.615vw;
+      top: 1vw;
+      left: 1vw;
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 8.205vw;
+      line-height: 117.88%;
+      letter-spacing: 0.03em;
+      background: linear-gradient(89.53deg, #20EB1B 2.91%, rgba(180, 235, 255, 0.979006) 5.45%, #F9A5E5 7.88%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+    }
+    .problem{
+      position: absolute;
+      width: 45.385vw;
+      height: 12.308vw;
+      left: 1vw;
+      top: 4vw;
+
+      font-family: 'Exo 2';
+      font-style: normal;
+      font-weight: 300;
+      font-size: 2.564vw;
+      line-height: 3.077vw;
+      display: flex;
+      align-items: center;
+    }
     .friends{
       height: 82.821vw;
       width: 85.897vw;
