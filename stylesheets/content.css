@@ -431,39 +431,43 @@ text-fill-color: transparent;
 .colors {
   position: absolute;
   display: block;
-  width: 400px;
-  height: 400px;
-  left: calc(50% - 200px);
-  top: -50px;
-  filter: blur(140px);
-  animation: colors 70s linear infinite;
+  width: 27.778vw;
+  height: 27.778vw;
+  right: 1vw;
+  top: 3.472vw;
+  filter: blur(7.639vw);
+  animation: colors 15s linear infinite;
 }
 .circle {
 
-position: absolute;
+  position: absolute;
   display: block;
 
-width: 200px;
-  height: 200px;
+  width: 13.889vw;
+  height: 13.889vw;
   border-radius: 100%;
 }
 .cl0 {
-  background: #c10101;
+  width: 20.833vw;
+  height: 20.833vw;
+  background: #3B37FF;
   top: 0;
   left: 0;
 }
 .cl1 {
-  background: #0101c1;
+  background: #31FFFF;
   top: 0;
   right: 0;
 }
 .cl2 {
-  background: #c101c1;
+  background: #00FF21;
   bottom: 0;
   left: 0;
 }
 .cl3 {
-  background: #c1c101;
+  background: white;
+  width: 6.944vw;
+  height: 6.944vw;
   bottom: 0;
   right: 0;
 }
