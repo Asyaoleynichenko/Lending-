@@ -1,3 +1,4 @@
+
 body{
   background-color: black;
   overflow-x: hidden;
@@ -426,6 +427,49 @@ text-fill-color: transparent;
   left: 26.389vw;
   top: 218.194vw;
 
+}
+.colors {
+  position: absolute;
+  display: block;
+  width: 400px;
+  height: 400px;
+  left: calc(50% - 200px);
+  top: -50px;
+  filter: blur(140px);
+  animation: colors 70s linear infinite;
+}
+.circle {
+
+position: absolute;
+  display: block;
+
+width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.cl0 {
+  background: #c10101;
+  top: 0;
+  left: 0;
+}
+.cl1 {
+  background: #0101c1;
+  top: 0;
+  right: 0;
+}
+.cl2 {
+  background: #c101c1;
+  bottom: 0;
+  left: 0;
+}
+.cl3 {
+  background: #c1c101;
+  bottom: 0;
+  right: 0;
+}
+@keyframes colors {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
 }
 /*.ball1{
   position: absolute;
