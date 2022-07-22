@@ -85,13 +85,6 @@
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
-
-      background: linear-gradient(90.94deg, #00FF19 11.27%, #FF70DD 36.51%, rgba(180, 235, 255, 0.979006) 60.58%, rgba(5, 0, 255, 0.94) 85.65%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      text-fill-color: transparent;
-
     }
     p{
      color: white;
@@ -201,6 +194,12 @@
       line-height: 117.88%;
 
     letter-spacing: 0.03em;
+    background: linear-gradient(89.95deg, #00FF19 -0.2%, #FF70DD 7.69%, rgba(180, 235, 255, 0.979006) 15.2%, rgba(5, 0, 255, 0.94) 23.03%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
     }
     .h22{
       position: absolute;
@@ -216,6 +215,12 @@
       line-height: 117.88%;
 
       letter-spacing: 0.03em;
+      background: linear-gradient(89.95deg, #00FF19 -0.2%, #FF70DD 7.69%, rgba(180, 235, 255, 0.979006) 15.2%, rgba(5, 0, 255, 0.94) 23.03%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+
     }
     .h23{
       position: absolute;
@@ -230,6 +235,12 @@
       font-size: 5.128vw;
       line-height: 117.88%;
       letter-spacing: 0.03em;
+      background: linear-gradient(89.95deg, #00FF19 -0.2%, #FF70DD 7.69%, rgba(180, 235, 255, 0.979006) 15.2%, rgba(5, 0, 255, 0.94) 23.03%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+
     }
   .h11{
   position: absolute;
