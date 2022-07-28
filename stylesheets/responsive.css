@@ -350,7 +350,22 @@
 
     }
     .colors3{
+      display: none;
       top: 210vw;
+      width: 1vw;
+      height: 20vw;
+      left: 5vw;
+    }
+    .colors5{
+
+      top: 410vw;
+      width: 1vw;
+      height: 20vw;
+      left: 100vw;
+    }
+    .colors4{
+
+      top: 410vw;
       width: 1vw;
       height: 20vw;
       left: 5vw;
