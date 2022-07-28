@@ -137,10 +137,12 @@
     }
     .p2{
       position: absolute;
-      width: 62.051vw;
       height: 13.077vw;
-      left: 18.974vw;
-      top: 364.615vw;
+      width: 73.333vw;
+      left: 16.154vw;
+      top: 363.590vw;
+      border-radius: nullpx;
+
 
       font-weight: 500;
       font-size: 3.077vw;
@@ -151,10 +153,12 @@
     }
      .p3{
        position: absolute;
-       width: 63.846vw;
        height: 11.026vw;
-       left: 18.974vw;
-       top: 401.538vw;
+       width: 72.308vw;
+       left: 17.179vw;
+       top: 399.744vw;
+       border-radius: nullpx;
+
 
        font-family: 'Exo 2';
        font-weight: 500;
@@ -165,10 +169,12 @@
      }
       .p4{
         position: absolute;
-        width: 62.051vw;
         height: 12.564vw;
-        left: 18.974vw;
-        top: 441.282vw;
+        width: 72.821vw;
+        left: 16.154vw;
+        top: 440.769vw;
+        border-radius: nullpx;
+
 
         font-family: 'Exo 2';
         font-style: normal;
@@ -242,10 +248,12 @@
     }
   .h11{
   position: absolute;
-  width: 43.333vw;
   height: 8.205vw;
-  left: 28.462vw;
+  width: 43.333vw;
+  left: 27.949vw;
   top: 349.744vw;
+  border-radius: undefinedpx;
+
 
   font-family: 'Exo 2';
   font-style: normal;
@@ -257,10 +265,12 @@
     }
     .h12{
       position: absolute;
-      width: 67.692vw;
       height: 8.974vw;
+      width: 67.692vw;
       left: 24.103vw;
       top: 385.128vw;
+      border-radius: nullpx;
+
 
       font-family: 'Exo 2';
       font-style: normal;
@@ -272,10 +282,12 @@
     }
     .h13{
       position: absolute;
-      width: 94.359vw;
       height: 23.077vw;
-      left: 2.821vw;
-      top: 412.564vw;
+      width: 94.359vw;
+      left: 3.333vw;
+      top: 410.769vw;
+      border-radius: nullpx;
+
 
       font-family: 'Exo 2';
       font-style: normal;
@@ -363,10 +375,19 @@
     }
     .colors4{
 
-      top: 410vw;
+      top: 400vw;
       width: 1vw;
       height: 20vw;
       left: 5vw;
+    }
+    .circle4 {
+
+      position: absolute;
+      display: block;
+
+      width: 60.889vw;
+      height: 60.889vw;
+      border-radius: 100%;
     }
     .s1{
       position: absolute;
