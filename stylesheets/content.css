@@ -1,6 +1,6 @@
 
 body{
-  background-color: white;
+  background-color:  black;
   overflow-x: hidden;
   background-size:cover;
   scroll-behavior: smooth;
@@ -9,7 +9,7 @@ header{
   position: fixed;
   width: 100vw;
   height: 5.903vw;
-  background-color: white;
+  background-color: black;
   border-bottom-right-radius: 2.5vw;
   border-bottom-left-radius: 2.5vw;
   box-shadow: -0.139vw 0.764vw 2.2vw rgba(0, 255, 33, 0.92);
@@ -28,9 +28,9 @@ border-radius: 2.5vw;
 button{
   cursor: pointer;
   box-sizing: border-box;
-  color: black;
+  color: white;
   position: absolute;
-  background-color: white;
+  background-color: black;
   border: 1vw solid #20EB1B;
   border-radius: 13.889vw;
   font-family: 'Exo 2';
@@ -42,10 +42,10 @@ button{
 }
 a{
   text-decoration: none;
-  color: black;
+  color: white;
 }
 input{
-  background-color: white;
+  background-color:  black;
   border: 0.069vw solid #20EB1B;
   border-radius: 13.889vw;
   outline:none;
@@ -59,7 +59,7 @@ input{
 
 }
 h1{
-  color: black;
+  color: white;
   position: absolute;
   width: 70.139vw;
   height: 14.306vw;
@@ -92,12 +92,12 @@ h2{
 
 }
 p{
- color: black;
+ color: white;
  font-family: 'Exo 2';
 }
 ::selection {
     background: #16E52B;
-    color: white;
+    color: black;
    }
 .logo{
   position: absolute;
@@ -117,25 +117,25 @@ top: 0.5vw;
 }
 .login{
   box-sizing: border-box;
-  color: black;
+  color: white;
   position: absolute;
   width: 12.986vw;
   height: 4.097vw;
   left: 80.556vw;
   top: 1.042vw;
-  background-color: white;
+  background-color: black;
   border: 0.069vw solid #20EB1B;
   border-radius: 13.889vw;
 }
 .aboutus{
   box-sizing: border-box;
-  color: black;
+  color: white;
   position: absolute;
   width: 12.986vw;
   height: 4.097vw;
   left: 66.875vw;
   top: 1.042vw;
-  background-color: white;
+  background-color: black;
   border: 0.069vw solid #20EB1B;
   border-radius: 13.889vw;
 }
@@ -154,7 +154,7 @@ line-height: 1.667vw;
 display: flex;
 align-items: center;
 
-color: #FFFFFF;
+color: white;
 }
 .p2{
   position: absolute;
@@ -405,7 +405,7 @@ text-fill-color: transparent;
   left: 4.722vw;
   top: 122.917vw;
 
-  background: white;
+  background: black;
   border: 0.069vw solid #FFFFFF;
   box-shadow: 0vw 0.139vw 0.486vw #20EB1B;
   border-radius: 13.889vw;
@@ -419,7 +419,7 @@ text-fill-color: transparent;
   left: 55.208vw;
   top: 108.5vw;
 
-  background: white;
+  background: black;
   border: 0.069vw solid #FFFFFF;
   box-shadow: 0vw 0.139vw 0.486vw #20EB1B;
   border-radius: 13.889vw;
@@ -470,7 +470,7 @@ text-fill-color: transparent;
   left: 0;
 }
 .cl3 {
-  background: black;
+  background: white;
   width: 6.944vw;
   height: 6.944vw;
   bottom: 0;
